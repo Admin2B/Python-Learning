@@ -1,0 +1,30 @@
+hello world ccccc
+python c++CCC
+:w --->save file
+:wq -->save file and exit
+i:insert
+a:append
+o:open a line below
+I:insert before line
+A:append after line
+O:append a line above
+d:delete
+set nu:display row number
+citrl+v:select block
+V:select line
+v:visual mode
+y:copy
+p:paste
+% s/wordA/wordB/g :replace wordA with wordB globally
+:sp  --->split 
+:vs  --->vertical spllete
+ctrl+h:delete last char
+ctrl+w:delete last word
+ctrl+u:delete current line
+ctrl+c/ctrl+[:switch to normal mode
+gi:go to last edit position fast
+:syntax on/off:syntax is on/off
+w/W:move to next word/WORD 's beginning (word:word split by non-blank-char. WORD:word split by blank-char.
+e/E:move to next word's end
+b/B:go back to last word/WORD 's beginning
+

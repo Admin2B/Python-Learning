@@ -1,0 +1,10 @@
+simple is better than complex.
+http://www.taikr.com/q1305303@nwytg.net/admin0099(Studying)
+https://www.nowcoder.com/+1 2024691261/admin0099(Coding)
+
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple numpy
+
+
+https://www.cnblogs.com/yamin/p/7111397.html
+
+34
